@@ -1,0 +1,17 @@
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.csproj.AssemblyReference.cache
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.AssemblyInfoInputs.cache
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.AssemblyInfo.cs
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.csproj.CoreCompileInputs.cache
+C:\Users\mm1009057\source\repos\json\json\bin\Debug\net8.0\json.exe
+C:\Users\mm1009057\source\repos\json\json\bin\Debug\net8.0\json.deps.json
+C:\Users\mm1009057\source\repos\json\json\bin\Debug\net8.0\json.runtimeconfig.json
+C:\Users\mm1009057\source\repos\json\json\bin\Debug\net8.0\json.dll
+C:\Users\mm1009057\source\repos\json\json\bin\Debug\net8.0\json.pdb
+C:\Users\mm1009057\source\repos\json\json\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.csproj.Up2Date
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.dll
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\refint\json.dll
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.pdb
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\json.genruntimeconfig.cache
+C:\Users\mm1009057\source\repos\json\json\obj\Debug\net8.0\ref\json.dll
